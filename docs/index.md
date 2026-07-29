@@ -8,3 +8,6 @@
 **Exploratory analysis of conflict events in Syria after the fall of the Assad Regime**
 
 ![alt text](./assets/event_count_by_interval.png "Event count by interval")
+
+
+![alt text](./assets/event_type_bubblechart.png "Event type")
