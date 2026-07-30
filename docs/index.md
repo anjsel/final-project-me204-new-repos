@@ -12,7 +12,7 @@
 
 ![alt text](./assets/event_type_bubblechart.png "Event type")
 
-<iframe src="assets/sd_transfer_territory.html" 
+<iframe src="./assets/sd_transfer_territory.html" 
 width="100%"
 height="500"
 frameborder="0">
