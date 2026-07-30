@@ -11,3 +11,5 @@
 
 
 ![alt text](./assets/event_type_bubblechart.png "Event type")
+
+{% include <./assets/sd_transfer_territory.html> %}
