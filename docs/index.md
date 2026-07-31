@@ -47,9 +47,17 @@ As the chart shows, strategic developments, explosions/remote violence, and viol
 
 ***Strategic Developments***
 
-Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse, with some incidents in the later intervals too. However this number jumps in interval 13, which covers the month of 15 Jan 2026 - 14 Feb 2026. 
+Events relating to strategic developments have remained generally high in the last 18 months with some events standing out as being more prominent. 
 
 <iframe src="./assets/bar_sd.html" width="100%" height="500" frameborder="0"></iframe>
+
+Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse. However this recurs in the month of 15 Jan 2026 - 14 Feb 2026 too, reflecting competing political interests and factions.
+
+<iframe src="./assets/bar_sd_territory_transfer.html" width="100%" height="500" frameborder="0"></iframe>
+
+Anoterh
+
+<iframe src="./assets/bar_sd_change_group.html" width="100%" height="500" frameborder="0"></iframe>
 
 <iframe src="./assets/bubble_strat_dev.html" width="100%" height="500" frameborder="0"></iframe>
 
