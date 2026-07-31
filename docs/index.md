@@ -47,21 +47,27 @@ As the chart shows, strategic developments, explosions/remote violence, and viol
 
 ***Strategic Developments***
 
-Events relating to strategic developments have remained generally high in the last 18 months with some events standing out as being more prominent. 
+Events relating to strategic developments have remained generally high in the last 18 months with some events have a signficantly higher occurrence.  
 
 <iframe src="./assets/bar_sd.html" width="100%" height="500" frameborder="0"></iframe>
 
-Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse. However this recurs in the month of 15 Jan 2026 - 14 Feb 2026 too, reflecting competing political interests and factions.
+<iframe src="./assets/bubble_strat_dev.html" width="100%" height="500" frameborder="0"></iframe>
+
+Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse. However this recurs in the month of 15 Jan 2026 - 14 Feb 2026 too (corresponding to interval 13), reflecting competing political interests and factions.
 
 <iframe src="./assets/bar_sd_territory_transfer.html" width="100%" height="500" frameborder="0"></iframe>
 
-Anoterh
+Events pertaining to transfer of territory mainly occurred in Al Hasakeh, a sizeable governorate located in the far-east of Syria, bordering Turkiye and Iraq. The Syrian government seized large parts of the governorate following a ceasefire agreement with the Syrian Democratic Forces.
+
+Change of group and activity is most prominent out of the sub-categories, and remains reasonably high throughout the entire period. This category refers to important changes in the structure, operations, or formation of an armed or political group, which are non-violent. 
 
 <iframe src="./assets/bar_sd_change_group.html" width="100%" height="500" frameborder="0"></iframe>
 
-<iframe src="./assets/bubble_strat_dev.html" width="100%" height="500" frameborder="0"></iframe>
+The chart below shows the timeline of occurrences in the governorates where strategic developments have been mainly concentrated: Al Hasakeh, Aleppo, Deir ez Zor, and Quneitra.
 
 <iframe src="./assets/line_sd.html" width="100%" height="500" frameborder="0"></iframe>
+
+
 
 <iframe src="./assets/bar_non-violent_transfer_of_territory.html" width="100%" height="500" frameborder="0"></iframe>
 
