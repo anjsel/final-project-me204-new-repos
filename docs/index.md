@@ -27,8 +27,6 @@ This page presents the findings from the analysis. The first segment looks at th
 
 Since the fall of the Assad regime, and up until July 2026, 16 485 conflict events have been recorded. The bar chart below shows the total count per month ('interval') since the fall of the regime. 
 
-![alt text](./assets/event_count_by_interval.png "Event count by interval")
-
 
 The types of events recorded by ACLED are: 
 
@@ -41,13 +39,11 @@ The types of events recorded by ACLED are:
 
 Out of those, strategic developments, explosions/remote violence, and violence against civilians appear more prominent across the two years. 
 
-![alt text](./assets/event_type_bubblechart.png "Event type")
+<iframe src="./assets/bubble_events.html" width="100%" height="500" frameborder="0"></iframe>
 
 ***Strategic Developments***
 
 By visualising the timeline of events relating to strategic developments, one can see tha that non-violent transfers of territory were concentrated mainly in the first month following the regime collapse, with one incident in interval 1 and 2, too. However there are 35 counts appearing in interval 13 (Jan-Feb 2026).
-
-<iframe src="./assets/sd_transfer_territory.html" width="100%" height="500" frameborder="0"></iframe>
 
 A further analysis into the actors involved in these events show: 
 
@@ -57,10 +53,7 @@ A further analysis into the actors involved in these events show:
 
 <iframe src="./assets/line_sd.html" width="100%" height="500" frameborder="0"></iframe>
 
-<iframe src="./assets/sd_transfer_territory.html" width="100%" height="500" frameborder="0"></iframe>
-
 <iframe src="./assets/bar_non-violent_transfer_of_territory.html" width="100%" height="500" frameborder="0"></iframe>
-
 
 Additionally, an analysis of the location shows that the episodes in interval 13 were concentrated in: ###
 
