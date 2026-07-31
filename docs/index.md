@@ -30,22 +30,24 @@ Since the fall of the Assad regime, and up until July 2026, 16 485 conflict even
 
 The types of events recorded by ACLED are: 
 
-- Strategic Developments:
-- Explosions/Remote violence:
-- Violence against civilians:
-- Riots:
-- Protests:
-- Battles:
+- Strategic Developments
+- Explosions/Remote violence
+- Violence against civilians
+- Riots
+- Protests
+- Battles
 
-Out of those, strategic developments, explosions/remote violence, and violence against civilians appear more prominent across the two years. 
+These are furhter divided into different sub-groups.
+
+The first graph charts the prominence of the different sub-groups across the time period covered by the analysis. 
 
 <iframe src="./assets/bubble_events.html" width="100%" height="500" frameborder="0"></iframe>
 
+As the chart shows, strategic developments, explosions/remote violence, and violence against civilians are of particular interest to the analysis. While explosions and remote violence dropped drastically after the initial months after the regime collapse, incidents relating to strategic developments and violence against civilians have remained more stable across the last 18 months, and appear generally more prominent than the other conflict categories.
+
 ***Strategic Developments***
 
-By visualising the timeline of events relating to strategic developments, one can see tha that non-violent transfers of territory were concentrated mainly in the first month following the regime collapse, with one incident in interval 1 and 2, too. However there are 35 counts appearing in interval 13 (Jan-Feb 2026).
-
-A further analysis into the actors involved in these events show: 
+Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse, with some incidents in the later intervals too. However this number jumps in interval 13, which covers the month of 15 Jan 2026 - 14 Feb 2026. 
 
 <iframe src="./assets/bar_sd.html" width="100%" height="500" frameborder="0"></iframe>
 
