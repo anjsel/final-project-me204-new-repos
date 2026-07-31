@@ -51,14 +51,36 @@ By visualising the timeline of events relating to strategic developments, one ca
 
 A further analysis into the actors involved in these events show: 
 
-###graph###
+<iframe src="./assets/bar_sd.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/bubble_strat_dev.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/line_sd.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/sd_transfer_territory.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/bar_non-violent_transfer_of_territory.html" width="100%" height="500" frameborder="0"></iframe>
+
 
 Additionally, an analysis of the location shows that the episodes in interval 13 were concentrated in: ###
 
+***Explosions/Remote Violence***
+
+<iframe src="./assets/bar_erv.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/line_erv.html" width="100%" height="500" frameborder="0"></iframe>
+
 ***Violence against civilians***
 
+<iframe src="./assets/bar_vac.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/line_vac.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/bubble_vac_afd.html" width="100%" height="500" frameborder="0"></iframe>
 
 
-***Explosions/Remote Violence***
+
+
+
 
 
