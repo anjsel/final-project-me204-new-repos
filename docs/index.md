@@ -72,15 +72,23 @@ Change of group and activity is most prominent out of the sub-categories, and re
 
 ***Explosions/Remote Violence***
 
-
+In the immediate aftermath of the fall of the Assad regime the rate of explosions and remote violence was relatively high compared to other event categories however this was followed by a sharp decline in the third month after the government collapse. 
 
 <iframe src="./assets/bar_erv.html" width="100%" height="500" frameborder="0"></iframe>
+
+Out of all the governorates, Aleppo had the highest number of incidents. After an extended period with infrequent events, the governorate was again struck by a spike in explosions in December 2025 and January 2026. 
 
 <iframe src="./assets/line_erv.html" width="100%" height="500" frameborder="0"></iframe>
 
 ***Violence against civilians***
 
+Violence against civilians has persisted since the Assad government transferred its powers. 
+
+'Attacks' refers to incidents where an organized armed group use deliberate force and violence agains unarmed non-combatants. This inclues beatings and assaults, however other types of physical violence are coded separately as own categories or sub-categories. 
+
 <iframe src="./assets/bar_vac.html" width="100%" height="500" frameborder="0"></iframe>
+
+A concerning trend since the government was overthrown is the relatively high frequency at which abductions and forced disappearances have occurred. While this shows a slight decline, the number of incidents are still worrying. Incidentally, incidents are concentrated in a few governorates, including Al Hasakah, which suggests an association with the transfers of territory earlier in 2026. 
 
 <iframe src="./assets/line_vac.html" width="100%" height="500" frameborder="0"></iframe>
 
