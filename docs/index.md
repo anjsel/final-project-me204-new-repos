@@ -1,9 +1,5 @@
 # ME204 Final Project
 
-[use just and index.md if working solo, but if working with others, add links to their invidiual pages like below]
-
-- [Your GitHub username](./your-github-username.md)
-
 
 **Exploratory analysis of conflict events in Syria after the fall of the Assad Regime**
 
@@ -13,7 +9,7 @@ While the transfer of Government powers to Hay'at Tahrir al-Sham (HTS) ended the
 
 To gain a deeper understanding of the security situation following the fall of the Assad regime, the present study aims is an exploratory analysis of conflict events within Syria, drawing on data from ACLED from the time of the regime collapse and until today. 
 
-ABOUT THE APPROACH AND METHODOLOGY
+**About the approach and methodology**
 
 The study is exploratory in nature and is not driven by a particular question; instead, it aims to take stock of the type and number of conflict events in Syria after the fall of the Assad regime.
 
@@ -38,6 +34,8 @@ The types of events recorded by ACLED are:
 - Battles
 
 These are furhter divided into different sub-groups.
+
+**Analysis**
 
 The first graph charts the prominence of the different sub-groups across the time period covered by the analysis. 
 
