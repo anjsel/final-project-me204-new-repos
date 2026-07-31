@@ -53,9 +53,15 @@ Events relating to strategic developments have remained generally high in the la
 
 <iframe src="./assets/bubble_strat_dev.html" width="100%" height="500" frameborder="0"></iframe>
 
+The chart below shows the timeline of occurrences in the governorates where strategic developments have been mainly concentrated: Al Hasakeh, Aleppo, Deir ez Zor, and Quneitra.
+
+<iframe src="./assets/line_sd.html" width="100%" height="500" frameborder="0"></iframe>
+
 Non-violent transfers of territory were concentrated mainly in the first month following the regime collapse. However this recurs in the month of 15 Jan 2026 - 14 Feb 2026 too (corresponding to interval 13), reflecting competing political interests and factions.
 
 <iframe src="./assets/bar_sd_territory_transfer.html" width="100%" height="500" frameborder="0"></iframe>
+
+<iframe src="./assets/bar_non-violent_transfer_of_territory.html" width="100%" height="500" frameborder="0"></iframe>
 
 Events pertaining to transfer of territory mainly occurred in Al Hasakeh, a sizeable governorate located in the far-east of Syria, bordering Turkiye and Iraq. The Syrian government seized large parts of the governorate following a ceasefire agreement with the Syrian Democratic Forces.
 
@@ -63,17 +69,10 @@ Change of group and activity is most prominent out of the sub-categories, and re
 
 <iframe src="./assets/bar_sd_change_group.html" width="100%" height="500" frameborder="0"></iframe>
 
-The chart below shows the timeline of occurrences in the governorates where strategic developments have been mainly concentrated: Al Hasakeh, Aleppo, Deir ez Zor, and Quneitra.
-
-<iframe src="./assets/line_sd.html" width="100%" height="500" frameborder="0"></iframe>
-
-
-
-<iframe src="./assets/bar_non-violent_transfer_of_territory.html" width="100%" height="500" frameborder="0"></iframe>
-
-Additionally, an analysis of the location shows that the episodes in interval 13 were concentrated in: ###
 
 ***Explosions/Remote Violence***
+
+
 
 <iframe src="./assets/bar_erv.html" width="100%" height="500" frameborder="0"></iframe>
 
