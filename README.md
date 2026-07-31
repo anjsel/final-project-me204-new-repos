@@ -36,3 +36,5 @@ Notebooks NB03a-c are a bit jumbled; there is some overlap among them, especiall
 
 The findings are presented on the website linked to this project: https://anjsel.github.io/final-project-me204-new-repos/ 
 
+It was not possible to keep the charts in the project folder, as Nuvolos sets a limit to the size of the submission. These, along with the index.md file, have been moved to a different local repository.
+
