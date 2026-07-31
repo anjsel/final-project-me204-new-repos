@@ -1,0 +1,113 @@
+interval,event_type,event_count
+0,Battles,223
+0,Explosions/Remote violence,555
+0,Protests,67
+0,Riots,10
+0,Strategic developments,364
+0,Violence against civilians,256
+1,Battles,196
+1,Explosions/Remote violence,568
+1,Protests,78
+1,Strategic developments,186
+1,Violence against civilians,342
+2,Battles,202
+2,Explosions/Remote violence,416
+2,Protests,148
+2,Riots,4
+2,Strategic developments,219
+2,Violence against civilians,296
+3,Battles,120
+3,Explosions/Remote violence,229
+3,Protests,49
+3,Riots,5
+3,Strategic developments,197
+3,Violence against civilians,309
+4,Battles,90
+4,Explosions/Remote violence,149
+4,Protests,54
+4,Riots,6
+4,Strategic developments,257
+4,Violence against civilians,264
+5,Battles,116
+5,Explosions/Remote violence,141
+5,Protests,32
+5,Riots,5
+5,Strategic developments,220
+5,Violence against civilians,244
+6,Battles,71
+6,Explosions/Remote violence,86
+6,Protests,72
+6,Strategic developments,338
+6,Violence against civilians,231
+7,Battles,203
+7,Explosions/Remote violence,120
+7,Protests,108
+7,Riots,6
+7,Strategic developments,176
+7,Violence against civilians,196
+8,Battles,113
+8,Explosions/Remote violence,129
+8,Protests,65
+8,Riots,1
+8,Strategic developments,211
+8,Violence against civilians,227
+9,Battles,117
+9,Explosions/Remote violence,110
+9,Protests,75
+9,Riots,7
+9,Strategic developments,252
+9,Violence against civilians,234
+10,Battles,94
+10,Explosions/Remote violence,112
+10,Protests,89
+10,Riots,4
+10,Strategic developments,279
+10,Violence against civilians,169
+11,Battles,128
+11,Explosions/Remote violence,90
+11,Protests,105
+11,Riots,6
+11,Strategic developments,333
+11,Violence against civilians,151
+12,Battles,160
+12,Explosions/Remote violence,194
+12,Protests,59
+12,Riots,10
+12,Strategic developments,381
+12,Violence against civilians,120
+13,Battles,190
+13,Explosions/Remote violence,224
+13,Protests,97
+13,Riots,1
+13,Strategic developments,408
+13,Violence against civilians,159
+14,Battles,90
+14,Explosions/Remote violence,137
+14,Protests,66
+14,Riots,14
+14,Strategic developments,321
+14,Violence against civilians,95
+15,Battles,50
+15,Explosions/Remote violence,153
+15,Protests,187
+15,Riots,6
+15,Strategic developments,345
+15,Violence against civilians,98
+16,Battles,56
+16,Explosions/Remote violence,92
+16,Protests,127
+16,Riots,7
+16,Strategic developments,306
+16,Violence against civilians,62
+17,Battles,46
+17,Explosions/Remote violence,85
+17,Protests,194
+17,Riots,21
+17,Strategic developments,308
+17,Violence against civilians,89
+18,Battles,64
+18,Explosions/Remote violence,74
+18,Protests,114
+18,Riots,4
+18,Strategic developments,220
+18,Violence against civilians,86
